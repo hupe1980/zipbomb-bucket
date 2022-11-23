@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/zipbomb/releases/download/v0.0.1/zipbomb_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/zipbomb/releases/download/v0.0.2/zipbomb_Windows_i386.zip",
             "bin": [
                 "zipbomb.exe"
             ],
-            "hash": "8d2261f3678a530cf6ed7e366d9432a4e01292eda352082409015a51aaa219a6"
+            "hash": "a0cc589328ed5f595aca855ebd0bff820bf489f40d13781b0551c0f31a64d1ad"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/zipbomb/releases/download/v0.0.1/zipbomb_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/zipbomb/releases/download/v0.0.2/zipbomb_Windows_x86_64.zip",
             "bin": [
                 "zipbomb.exe"
             ],
-            "hash": "cb6634b146c0f7df96a08635a1f0608cb9b9e331fa216a3061ee33f2b0808105"
+            "hash": "3d4729a7c63e01a32e927421fe3b8674f868a096367bfcc060a478352ba8e978"
         }
     },
     "homepage": "https://github.com/hupe1980/zipbomb",
